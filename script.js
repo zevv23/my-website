@@ -1,3 +1,3 @@
-function sayHello() {
-    alert("Hello! Your website is working online 🎉");
+function buy() {
+  alert("Thank you for your interest! Checkout coming soon.");
 }
